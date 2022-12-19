@@ -1,0 +1,18 @@
+#+title: Plantilla general
+Esta es la estructura de un documento general.
+* Contenidos :TOC:
+- [[#clase-del-documento][Clase del documento]]
+- [[#font-encoding][Font encoding]]
+- [[#parametros-página][Parametros página]]
+- [[#paquetes-para-matemática][Paquetes para matemática]]
+- [[#macros][Macros]]
+- [[#detalles-documento][Detalles documento]]
+- [[#cuerpo-documento][Cuerpo documento]]
+
+* TODO Clase del documento
+* TODO Font encoding
+* TODO Parametros página
+* TODO Paquetes para matemática
+* TODO Macros
+* TODO Detalles documento
+* TODO Cuerpo documento

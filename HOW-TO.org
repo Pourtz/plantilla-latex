@@ -1,0 +1,14 @@
+#+title: ¿Como hago ...?
+Compilación de instrucciones para preguntas usuales.
+* Contenidos :TOC:
+- [[#insertar-imagenes][Insertar imagenes]]
+- [[#definir-listas-personalizadas][Definir listas personalizadas]]
+- [[#dividir-el-documento-en-subarchivos][Dividir el documento en subarchivos]]
+- [[#graficar-funciones][Graficar funciones]]
+- [[#insertar-patos-y-pinguinos][Insertar patos y pinguinos]]
+
+* TODO Insertar imagenes
+* TODO Definir listas personalizadas
+* TODO Dividir el documento en subarchivos
+* TODO Graficar funciones
+* TODO Insertar patos y pinguinos
